@@ -1,0 +1,25 @@
+.title {
+  margin-top: 10px;
+  font-size: 7vw;
+  /* text-transform: "uppercase"; */
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: column;
+  height: 35vh;
+  width: 100%;
+}
+
+.inputs {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.search,
+.select {
+  width: 100%;
+}

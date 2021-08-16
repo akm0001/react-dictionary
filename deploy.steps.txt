@@ -1,0 +1,14 @@
+url: 
+https://dictionary-aa43b.web.app/
+
+
+goto firebase and create a proejct.
+
+then:
+
+firebase init
+
+npm run build
+
+firebase deploy
+
